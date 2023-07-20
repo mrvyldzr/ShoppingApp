@@ -2,7 +2,7 @@ import React from "react";
 import { StyleSheet, View, Text } from "react-native";
 
 interface HeaderProps {
-  title: string; // Başlık prop'u
+  title: string; // Header
 }
 
 function Header({ title }: HeaderProps) {
